@@ -1,2 +1,3 @@
 
 THis is my hello world to Git Hub!
+Edited and updates for first time in git huib
